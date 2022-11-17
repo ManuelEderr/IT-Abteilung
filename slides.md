@@ -6,21 +6,14 @@
 
 ---
 
-## Quotes
+## NWT, SYT und SEW
 
-> Quotes are ~~hard~~ easy
-> to write - but you can use `code`
 
 ---
 
-## Styles
+## Stundentafel
 
-You can freely mix **bold**, *italics*, `code` and normal styles
-
-* normal
-* **bold**
-* *italics*
-* `code`
+![grafik](https://user-images.githubusercontent.com/83589796/202418485-1abe0253-15bb-4995-967e-cfc67f5543e4.png)
 
 --
 
