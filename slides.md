@@ -1,13 +1,8 @@
-# HTL STEYR
+# Vorstellung IT-Abteilung
 
 --
 
-## Vorstellung IT-Abteilung
-
----
-
 ## NWT, SYT und SEW
-
 
 ---
 
