@@ -2,7 +2,11 @@
 
 --
 
-## NWT, SYT, SEW, INSY, MEDT und ITP
+## - NWT
+## - SEW
+## - INSY
+## - MEDT
+## - ITP
 
 ---
 
