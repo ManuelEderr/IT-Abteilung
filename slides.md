@@ -13,7 +13,7 @@
 
 ## Stundentafel
 
-<img src="https://user-images.githubusercontent.com/83589796/202418485-1abe0253-15bb-4995-967e-cfc67f5543e4.png" alt="Stundentafel" style="height: 1000px; width:1000px;"/>
+<img src="https://user-images.githubusercontent.com/83589796/202418485-1abe0253-15bb-4995-967e-cfc67f5543e4.png" alt="Stundentafel" style="height: 700px; width:700px;"/>
 
 --
 
