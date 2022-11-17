@@ -3,11 +3,11 @@
 
 --
 
-## NWT (Netzwerktechnik)
-## SEW (Softwareentwicklung)
-## INSY (Informatiossysteme)
-## MEDT (Medientechnik)
-## ITP (Informationstechnische Projekte)
+## NWT
+## SEW
+## INSY
+## MEDT
+## ITP
 
 ---
 
