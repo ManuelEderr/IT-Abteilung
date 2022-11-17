@@ -3,11 +3,11 @@
 
 --
 
-## - NWT
-## - SEW
-## - INSY
-## - MEDT
-## - ITP
+## NWT
+## SEW
+## INSY
+## MEDT
+## ITP
 
 ---
 
