@@ -1,8 +1,8 @@
-# Demo
+# HTL STEYR
 
 --
 
-## Typography
+## Vorstellung IT-Abteilung
 
 ---
 
