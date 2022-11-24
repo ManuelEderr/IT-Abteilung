@@ -11,10 +11,8 @@
 
 ## NWT
 ## SEW
-## INSY
-## MEDT
-## ITP
 ## SYT
+## ITSI
 
 ---
 
@@ -42,24 +40,8 @@ Erklärung SEW:
 
 ---
 
-## INSY
+## ITSI
 
 ----
 
-Erklärung INSY:
-
----
-
-## MEDT
-
-----
-
-Erklärung MEDT:
-
----
-
-## ITP
-
-----
-
-Erklärung ITP:
+Erklärung ITSI:
