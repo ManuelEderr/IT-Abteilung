@@ -14,6 +14,7 @@
 ## INSY
 ## MEDT
 ## ITP
+## SYT
 
 ---
 
@@ -22,6 +23,14 @@
 ----
 
 Erklärung NWT:
+
+---
+
+## SYT
+
+----
+
+Erklärung SYT:
 
 ---
 
