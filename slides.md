@@ -20,20 +20,17 @@
 
 ----
 
-Erklärung NWT:
-NETZWERKTECHNIK Bildungs- und Lehraufgabe
-
-Die Schülerinnen und Schüler können im…
-Bereich Übertragungsmedien und Netztopologien:
-- Computernetze nach Umfang, Dienstangebot, Topologie und Mediennutzung charakterisieren
-- Computernetze vergleichen
-### Bereich Schichtenmodelle und Protokolle:
-- Modelle zur Rechnerkommunikation beschreiben;
-- Anforderungen an Modelle zur Rechnerkommunikation allgemein charakterisieren.
-- Bereich Switching und Routing
-- den Unterschied zwischen Switching und Routing charakterisieren
-- die Notwendigkeit der selbstständigen Wegewahl eines Datenpaketes durch ein lokales Netzwerk begründen!
-
+### NETZWERKTECHNIK Bildungs- und Lehraufgabe
+- Die Schülerinnen und Schüler können im…
+- Bereich Übertragungsmedien und Netztopologien:
+	- Computernetze nach Umfang, Dienstangebot, Topologie und Mediennutzung charakterisieren
+	- Computernetze vergleichen
+- Bereich Schichtenmodelle und Protokolle:
+	- Modelle zur Rechnerkommunikation beschreiben;
+	- Anforderungen an Modelle zur Rechnerkommunikation allgemein charakterisieren.
+	- Bereich Switching und Routing
+	- den Unterschied zwischen Switching und Routing charakterisieren;
+	- die Notwendigkeit der selbstständigen Wegewahl eines Datenpaketes durch ein lokales Netzwerk begründen.
 
 ---
 
