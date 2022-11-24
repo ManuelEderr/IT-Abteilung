@@ -9,7 +9,7 @@
 
 --
 
-## [NWT](#/plan)
+## NWT
 ## SYT
 ## SEW
 ## ITSI
@@ -20,7 +20,6 @@
 
 ----
 
--- id="plan"
 Erklärung NWT:
 NETZWERKTECHNIK Bildungs- und Lehraufgabe
 
