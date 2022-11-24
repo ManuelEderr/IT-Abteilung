@@ -10,8 +10,8 @@
 --
 
 ## NWT
-## SEW
 ## SYT
+## SEW
 ## ITSI
 
 ---
