@@ -19,20 +19,38 @@
 
 ## NWT
 
+----
+
+Erklärung NWT:
+
 ---
 
 ## SEW
+
+----
+
+Erklärung SEW:
 
 ---
 
 ## INSY
 
+----
+
+Erklärung INSY:
+
 ---
 
 ## MEDT
+
+----
+
+Erklärung MEDT:
 
 ---
 
 ## ITP
 
----
+----
+
+Erklärung ITP:
