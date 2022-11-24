@@ -32,7 +32,7 @@ Bereich Übertragungsmedien und Netztopologien:
 - Modelle zur Rechnerkommunikation beschreiben;
 - Anforderungen an Modelle zur Rechnerkommunikation allgemein charakterisieren.
 - Bereich Switching und Routing
-- den Unterschied zwischen Switching und Routing charakterisieren;
+- den Unterschied zwischen Switching und Routing charakterisieren
 - die Notwendigkeit der selbstständigen Wegewahl eines Datenpaketes durch ein lokales Netzwerk begründen!
 
 
