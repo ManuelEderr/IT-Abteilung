@@ -20,7 +20,7 @@
 
 ----
 
-<font size="1">NETZWERKTECHNIK Bildungs- und Lehraufgabe</font>
+<font size="3">NETZWERKTECHNIK Bildungs- und Lehraufgabe</font>
 
 
 Die Schülerinnen und Schüler können im... 
@@ -35,6 +35,20 @@ Die Schülerinnen und Schüler können im...
 	<dd>den Unterschied zwischen Switching und Routing charakterisieren;</dd>
 	<dd>die Notwendigkeit der selbstständigen Wegewahl eines Datenpaketes durch ein lokales Netzwerk begründen.</dd>
 </dl>
+
+---
+
+<font size="3">NETZWERKTECHNIK - Lehrstoff</font>
+
+<dl style="font-size: 14px">
+<dt> Bereich Übertragungsmedien und Netztopologien:</dt>
+    <dd>Netze zur Sprach-, Text- und Bildkommunikation; Fest- und Funknetze; Übertragungsmedien und Kopplungselemente; Standards und Zugriffsverfahren; Topologien und Komponenten.</dd>
+<dt> Bereich Schichtenmodelle und Protokolle:</dt>
+    <dd> Grundlagen von Kommunikationsmodellen; grundlegende Adresskonzepte und Protokolle zur Adressvergabe.</dd>
+<dt> Bereich Switching und Routing:</dt>
+    <dd>Einführende Übungen zu Switching und einfachem Routing (einfache Fehlererkennung).</dd>
+</dl>
+
 ---
 
 ## SYT
