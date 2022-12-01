@@ -20,7 +20,7 @@
 
 ----
 
-### NETZWERKTECHNIK Bildungs- und Lehraufgabe
+<font size="1">NETZWERKTECHNIK Bildungs- und Lehraufgabe</font>
 <font size="2">
 
 Die Schülerinnen und Schüler können im... 
