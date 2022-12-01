@@ -21,7 +21,7 @@
 ----
 
 <font size="1">NETZWERKTECHNIK Bildungs- und Lehraufgabe</font>
-<font size="2">
+
 
 Die Schülerinnen und Schüler können im... 
 <dl>
@@ -35,7 +35,6 @@ Die Schülerinnen und Schüler können im...
 	<dd>den Unterschied zwischen Switching und Routing charakterisieren;</dd>
 	<dd>die Notwendigkeit der selbstständigen Wegewahl eines Datenpaketes durch ein lokales Netzwerk begründen.</dd>
 </dl>
-</font>	
 ---
 
 ## SYT
