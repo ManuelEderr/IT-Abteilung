@@ -21,6 +21,7 @@
 ----
 
 ### NETZWERKTECHNIK Bildungs- und Lehraufgabe
+<font size="2">
 - Die Schülerinnen und Schüler können im…
 - Bereich Übertragungsmedien und Netztopologien:
 	- Computernetze nach Umfang, Dienstangebot, Topologie und Mediennutzung charakterisieren
@@ -31,7 +32,7 @@
 	- Bereich Switching und Routing
 	- den Unterschied zwischen Switching und Routing charakterisieren;
 	- die Notwendigkeit der selbstständigen Wegewahl eines Datenpaketes durch ein lokales Netzwerk begründen.
-
+</font>	
 ---
 
 ## SYT
