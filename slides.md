@@ -45,6 +45,7 @@ Die Schülerinnen und Schüler lernen im
 <dl style="font-size: 14px">
 <dt>Bereich Elektrotechnik und Elektronik für Informationstechnologie</dt>
     <dd>wichtige elektrotechnische Grundgesetze/Größen/Einheiten</dd>
+    <dd>Schaltungen mit Gleichspannung analysieren/berechnen</dd>
 </dl>
 
 ---
