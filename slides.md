@@ -41,7 +41,11 @@ Die Schülerinnen und Schüler können im...
 
 ----
 
-Erklärung SYT:
+Die Schülerinnen und Schüler lernen im
+<dl style="font-size: 14px">
+<dt>Bereich Elektrotechnik und Elektronik für Informationstechnologie</dt>
+    <dd>wichtige elektrotechnische Grundgesetze/Größen/Einheiten</dd>
+</dl>
 
 ---
 
