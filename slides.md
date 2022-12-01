@@ -23,7 +23,7 @@
 ### NETZWERKTECHNIK Bildungs- und Lehraufgabe
 <font size="2">
 
-Die Schülerinnen und Schüler können im… 
+Die Schülerinnen und Schüler können im... 
 <dl>
 <dt> Bereich Übertragungsmedien und Netztopologien:</dt>
 	<dd>Computernetze nach Umfang, Dienstangebot, Topologie und Mediennutzung charakterisieren</dd>
