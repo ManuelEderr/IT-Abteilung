@@ -22,16 +22,19 @@
 
 ### NETZWERKTECHNIK Bildungs- und Lehraufgabe
 <font size="2">
-- Die Schülerinnen und Schüler können im…
-- Bereich Übertragungsmedien und Netztopologien:
-	- Computernetze nach Umfang, Dienstangebot, Topologie und Mediennutzung charakterisieren
-	- Computernetze vergleichen
-- Bereich Schichtenmodelle und Protokolle:
-	- Modelle zur Rechnerkommunikation beschreiben;
-	- Anforderungen an Modelle zur Rechnerkommunikation allgemein charakterisieren.
-	- Bereich Switching und Routing
-	- den Unterschied zwischen Switching und Routing charakterisieren
-	- die Notwendigkeit der selbstständigen Wegewahl eines Datenpaketes durch ein lokales Netzwerk begründen.
+
+Die Schülerinnen und Schüler können im… 
+<dl>
+<dt> Bereich Übertragungsmedien und Netztopologien:</dt>
+	<dd>Computernetze nach Umfang, Dienstangebot, Topologie und Mediennutzung charakterisieren</dd>
+	<dd>Computernetze vergleichen</dd>
+<dt> Bereich Schichtenmodelle und Protokolle: </dt>
+	<dd>Modelle zur Rechnerkommunikation beschreiben;</dd>
+	<dd>Anforderungen an Modelle zur Rechnerkommunikation allgemein charakterisieren.</dd>
+	<dd>Bereich Switching und Routing</dd>
+	<dd>den Unterschied zwischen Switching und Routing charakterisieren;</dd>
+	<dd>die Notwendigkeit der selbstständigen Wegewahl eines Datenpaketes durch ein lokales Netzwerk begründen.</dd>
+</dl>
 </font>	
 ---
 
