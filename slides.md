@@ -24,7 +24,7 @@
 
 
 Die Schülerinnen und Schüler können im... 
-<dl>
+<dl style="font-size: 14px">
 <dt> Bereich Übertragungsmedien und Netztopologien:</dt>
 	<dd>Computernetze nach Umfang, Dienstangebot, Topologie und Mediennutzung charakterisieren</dd>
 	<dd>Computernetze vergleichen</dd>
