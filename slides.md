@@ -50,6 +50,10 @@ Die Schülerinnen und Schüler können im...
 </dl>
 
 ---
+Grundlagen:
+Netzwerkarten
+<img src="https://user-images.githubusercontent.com/83589796/207017460-c8737102-9d4d-4241-858e-ec7bcfbfc85c.png" alt="NWT-Bild1" width="20%"/>
+
 <img src="https://user-images.githubusercontent.com/83589796/202418485-1abe0253-15bb-4995-967e-cfc67f5543e4.png" alt="NWT-Bild2" width="60%"/>
 <img src="https://user-images.githubusercontent.com/83589796/205028700-45eb020f-d0ba-4afb-9c3a-c883ac3f5381.png" alt="NWT-Bild2" width="60%"/>
 
