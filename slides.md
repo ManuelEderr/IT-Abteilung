@@ -59,6 +59,23 @@ Die Schülerinnen und Schüler können im...
 
 
 ---
+ 
+ <img src="https://user-images.githubusercontent.com/83589796/207019745-2562b9d1-248a-452c-9871-f0b4797c4d11.png" alt="NWT-Bild6" width="40%"/>
+ 
+---
+
+<img src="https://user-images.githubusercontent.com/83589796/207020042-73b83445-02e4-4188-abfd-579f0619b408.png" alt="NWT-Bild7" width="40%"/>
+
+---
+
+ <img src="https://user-images.githubusercontent.com/83589796/207020551-5b6639cb-7668-4a2c-a1a5-16a77f976770.png" alt="NWT-Bild8" width="40%"/>
+
+---
+
+<img src="https://user-images.githubusercontent.com/83589796/207020381-48d34cb9-37f1-4363-9eb0-1c2d9cdf620a.png" alt="NWT-Bild9" width="40%"/>
+
+
+---
 
 ## SYT
 
