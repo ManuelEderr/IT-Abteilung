@@ -52,6 +52,8 @@ Die Schülerinnen und Schüler können im...
 ---
 Grundlagen:
 Netzwerkarten
+<img src="https://user-images.githubusercontent.com/83589796/207018428-bcc2a43e-3d53-4552-b05d-c8d1594224ed.png" alt="NWT-Bild4" width="20%"/>
+<img src="https://user-images.githubusercontent.com/83589796/207018714-03ffcee2-36b9-45ad-8f81-f8d58da54c22.png" alt="NWT-Bild5" width="20%"/>
 <img src="https://user-images.githubusercontent.com/83589796/207017460-c8737102-9d4d-4241-858e-ec7bcfbfc85c.png" alt="NWT-Bild1" width="20%"/>
 <img src="https://user-images.githubusercontent.com/83589796/205028700-45eb020f-d0ba-4afb-9c3a-c883ac3f5381.png" alt="NWT-Bild2" width="20%"/>
 <img src="https://user-images.githubusercontent.com/83589796/207018024-7bf4d3ee-ffd3-4d62-857f-11c074bbe708.png" alt="NWT-Bild3" width="20%"/>
