@@ -21,10 +21,12 @@
 ----
 
 <font size="3">Die Schülerinnen und Schüler können Netzwerke planen und betreiben:</font>
+<dl style="font-size: 14px">
 <dt> Was ist ein Netzwerk und wozu Planen:</dt>
-	<dd>T-Netzwerke sind heute in allen Unternehmen, aber auch in nahezu allen Haushalten vorhanden. Bereits die Verbindung zwischen zwei Computern, 		oder eines Computers mit dem Internet stellen ein Netzwerk dar. Weil wir Computernetzwerke als selbstverständlich erleben, vernachlässigen 			wir zu oft deren Planung. Was passiert jedoch, wenn das Netzwerk seinen Dienst versagt? Was wenn der Server, das Internet oder auch 			nur eine Außenstelle nicht erreichbar ist? Bestellungen kommen nicht an, Rechnungen können nicht bezahlt oder kontrolliert werden, 			Mitarbeiter oder ganze Filialen können nicht weiterarbeiten. Der Schaden kann enorme Ausmaße annehmen. 
-		Deshalb ist es notwendig und wichtig ein Netzwerk sorgfältig zu planen.</dd>
-		
+	<dd>IT-Netzwerke sind heute in allen Unternehmen, aber auch in nahezu allen Haushalten vorhanden. Bereits die Verbindung zwischen zwei Computern, 		oder eines Computers mit dem Internet stellen ein Netzwerk dar. Weil wir Computernetzwerke als selbstverständlich erleben, vernachlässigen 			wir zu oft deren Planung. Was passiert jedoch, wenn das Netzwerk seinen Dienst versagt? Was wenn der Server, das Internet oder auch 			nur eine Außenstelle nicht erreichbar ist? Bestellungen kommen nicht an, Rechnungen können nicht bezahlt oder kontrolliert werden, 			Mitarbeiter oder ganze Filialen können nicht weiterarbeiten. Der Schaden kann enorme Ausmaße annehmen. 
+		Deshalb ist es notwendig und wichtig ein Netzwerk sorgfältig zu planen.
+	</dd>
+	</dl>
 ---
 <font size="3">NETZWERKTECHNIK Bildungs- und Lehraufgabe</font>
 
