@@ -25,6 +25,9 @@
 	<dd>IT-Netzwerke sind heute in allen Unternehmen, aber auch in nahezu allen Haushalten vorhanden. Bereits die Verbindung zwischen zwei Computern, 		oder eines Computers mit dem Internet stellen ein Netzwerk dar. Weil wir Computernetzwerke als selbstverständlich erleben, vernachlässigen 			wir zu oft deren Planung. Was passiert jedoch, wenn das Netzwerk seinen Dienst versagt? Was wenn der Server, das Internet oder auch 			nur eine Außenstelle nicht erreichbar ist? Bestellungen kommen nicht an, Rechnungen können nicht bezahlt oder kontrolliert werden, 			Mitarbeiter oder ganze Filialen können nicht weiterarbeiten. Der Schaden kann enorme Ausmaße annehmen. 
 			Deshalb ist es notwendig und wichtig ein Netzwerk sorgfältig zu planen.
 	</dd>
+	<div class="pull-right">
+		<img src="https://user-images.githubusercontent.com/83589796/207020381-48d34cb9-37f1-4363-9eb0-1c2d9cdf620a.png" alt="NWT-Bild9" 				width="40%"/>
+	</div>
 	</dl>
 	
 ---
@@ -49,6 +52,10 @@ Die Schülerinnen und Schüler können im...
 	<dd>Bereich Switching und Routing</dd>
 	<dd>den Unterschied zwischen Switching und Routing charakterisieren;</dd>
 	<dd>die Notwendigkeit der selbstständigen Wegewahl eines Datenpaketes durch ein lokales Netzwerk begründen.</dd>
+	---
+<div class="pull-right">
+<img src="https://user-images.githubusercontent.com/83589796/207020042-73b83445-02e4-4188-abfd-579f0619b408.png" alt="NWT-Bild7" width="40%"/>
+	</div>
 </dl>
 
 ---
@@ -77,20 +84,10 @@ Die Schülerinnen und Schüler können im...
 
     <dd>Einführende Übungen zu Switching und einfachem Routing (einfache Fehlererkennung).</dd>
 </dt>
-</dl>
-
----
-
-<img src="https://user-images.githubusercontent.com/83589796/207020042-73b83445-02e4-4188-abfd-579f0619b408.png" alt="NWT-Bild7" width="40%"/>
-
----
-
+<div class="pull-right">
  <img src="https://user-images.githubusercontent.com/83589796/207020551-5b6639cb-7668-4a2c-a1a5-16a77f976770.png" alt="NWT-Bild8" width="40%"/>
-
----
-
-<img src="https://user-images.githubusercontent.com/83589796/207020381-48d34cb9-37f1-4363-9eb0-1c2d9cdf620a.png" alt="NWT-Bild9" width="40%"/>
-
+</div>
+</dl>
 
 ---
 
