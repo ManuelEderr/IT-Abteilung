@@ -110,7 +110,6 @@ Die Schülerinnen und Schüler lernen im
 <dd> - elementare Datentypen und Kontrollstrukturen erläutern sowie geeignete Datentypen für ihre Programme auswählen </dd>
 <dd> - einfache API-Dokumentationen auf Methodenebene lesen und verstehen </dd>
 <dd> - einfache Programmbibliotheken für gängige Aufgaben verwenden </dd>
-</dl>
 
 <dt> im Bereich Algorithmen und Datenstrukturen </dt>
 <dd> - einfache Datenstrukturen einsetzen </dd>
@@ -120,6 +119,7 @@ Die Schülerinnen und Schüler lernen im
 <dd> - mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen </dd>
 <dd> - im Rahmen der Programmentwicklung Fehler finden und beheben </dd>
 <dd> - einfache Testfälle definieren und damit Programme systematisch testen </dd>
+</dl>
 
 ---
 
