@@ -103,22 +103,23 @@ Die Schülerinnen und Schüler lernen im
 
 ### Softwareentwicklung Bildungs- und Lehraufgabe:
 
-<font size="3">Die Schülerinnen und Schüler können im Bereich Strukturierte Programmierung</font>
+<font size="3">Die Schülerinnen und Schüler können</font>
 <dl style="font-size: 14px">
+<dt> im Bereich Strukturierte Programmierung </dt>
 <dd> - Programme mit Hilfe von Methoden oder Funktionen strukturiere und in einer höheren Programmiersprache umsetzen </dd>
 <dd> - elementare Datentypen und Kontrollstrukturen erläutern sowie geeignete Datentypen für ihre Programme auswählen </dd>
 <dd> - einfache API-Dokumentationen auf Methodenebene lesen und verstehen </dd>
-	<dd> - einfache Programmbibliotheken für gängige Aufgaben verwenden </dd>
+<dd> - einfache Programmbibliotheken für gängige Aufgaben verwenden </dd>
 </dl>
 
 Die Schülerinnen und Schüler können im Bereich Algorithmen und Datenstrukturen
-- einfache Datenstrukturen einsetzen
-- einfache Datenstrukturen sortieren und darin ein Element suchen.
+<dd> - einfache Datenstrukturen einsetzen
+<dd> - einfache Datenstrukturen sortieren und darin ein Element suchen.
 
 Die Schülerinnen und Schüler können im Bereich Softwareentwicklungsprozess
-- mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen
-- im Rahmen der Programmentwicklung Fehler finden und beheben
-- einfache Testfälle definieren und damit Programme systematisch testen
+<dd> - mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen
+<dd> - im Rahmen der Programmentwicklung Fehler finden und beheben
+<dd> - einfache Testfälle definieren und damit Programme systematisch testen
 
 ---
 
