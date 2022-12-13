@@ -68,8 +68,9 @@ Die Schülerinnen und Schüler können im...
 <font size="3">Bereich Switching und Routing</font>
 <dt> 
     <dd>Einführende Übungen zu Switching und einfachem Routing (einfache Fehlererkennung).</dd>
-</dl>:</dt>
+</dl>
     <dd>Einführende Übungen zu Switching und einfachem Routing (einfache Fehlererkennung).</dd>
+</dt>
 </dl>
 
 
