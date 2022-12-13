@@ -20,26 +20,26 @@
 
 ----
 
-<font size="3">Die Schülerinnen und Schüler können Netzwerke planen und betreiben:</font>
-<dl style="font-size: 14px">
+<font size="6">Die Schülerinnen und Schüler können Netzwerke planen und betreiben:</font>
+<dl style="font-size: 28px">
 	<dd>IT-Netzwerke sind heute in allen Unternehmen, aber auch in nahezu allen Haushalten vorhanden. Bereits die Verbindung zwischen zwei Computern, 		oder eines Computers mit dem Internet stellen ein Netzwerk dar. Weil wir Computernetzwerke als selbstverständlich erleben, vernachlässigen 			wir zu oft deren Planung. Was passiert jedoch, wenn das Netzwerk seinen Dienst versagt? Was wenn der Server, das Internet oder auch 			nur eine Außenstelle nicht erreichbar ist? Bestellungen kommen nicht an, Rechnungen können nicht bezahlt oder kontrolliert werden, 			Mitarbeiter oder ganze Filialen können nicht weiterarbeiten. Der Schaden kann enorme Ausmaße annehmen. 
-		Deshalb ist es notwendig und wichtig ein Netzwerk sorgfältig zu planen.
+			Deshalb ist es notwendig und wichtig ein Netzwerk sorgfältig zu planen.
 	</dd>
 	</dl>
 	
 ---
 
-<font size="3">Lokalisieren und beheben Netzwerkfehler:</font>
-<dl style="font-size: 14px">
+<font size="6">Lokalisieren und beheben Netzwerkfehler:</font>
+<dl style="font-size: 28px">
 	<dd>Ein langsames Netzwerk, falsch zugewiesene VLANs, Probleme beim Drucken, DNS-Fehler oder WLAN-Clients, die keine Verbindung zum Netzwerk 			herstellen können – die möglichen Probleme und Fehler sowie deren Ursachen im Netz sind vielfältig.
 	</dd>
 	</dl>
 	
 ---
-<font size="3">NETZWERKTECHNIK Bildungs- und Lehraufgabe</font>
+<font size="6">NETZWERKTECHNIK Bildungs- und Lehraufgabe</font>
 
 Die Schülerinnen und Schüler können im... 
-<dl style="font-size: 14px">
+<dl style="font-size: 28px">
 <dt> Bereich Übertragungsmedien und Netztopologien:</dt>
 	<dd>Computernetze nach Umfang, Dienstangebot, Topologie und Mediennutzung charakterisieren</dd>
 	<dd>Computernetze vergleichen</dd>
