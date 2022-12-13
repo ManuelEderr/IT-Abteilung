@@ -20,10 +20,15 @@
 
 ----
 
+<font size="3">Die Schülerinnen und Schüler können Netzwerke planen und betreiben:</font>
+<dt> Was ist ein Netzwerk und wozu Planen:</dt>
+	<dd>T-Netzwerke sind heute in allen Unternehmen, aber auch in nahezu allen Haushalten vorhanden. Bereits die Verbindung zwischen zwei Computern, 		oder eines Computers mit dem Internet stellen ein Netzwerk dar. Weil wir Computernetzwerke als selbstverständlich erleben, vernachlässigen 			wir zu oft deren Planung. Was passiert jedoch, wenn das Netzwerk seinen Dienst versagt? Was wenn der Server, das Internet oder auch 			nur eine Außenstelle nicht erreichbar ist? Bestellungen kommen nicht an, Rechnungen können nicht bezahlt oder kontrolliert werden, 			Mitarbeiter oder ganze Filialen können nicht weiterarbeiten. Der Schaden kann enorme Ausmaße annehmen. 
+		Deshalb ist es notwendig und wichtig ein Netzwerk sorgfältig zu planen.</dd>
+---
 <font size="3">NETZWERKTECHNIK Bildungs- und Lehraufgabe</font>
 
 
-<dt> Die Schülerinnen und Schüler können im... </dt> 
+Die Schülerinnen und Schüler können im... 
 <dl style="font-size: 14px">
 <dt> Bereich Übertragungsmedien und Netztopologien:</dt>
 	<dd>Computernetze nach Umfang, Dienstangebot, Topologie und Mediennutzung charakterisieren</dd>
@@ -50,19 +55,14 @@
 </dl>
 
 ---
-<font size="3">Grundlagen: Netzwerkarten</font>
-<div class="pull-left">
-<img src="https://user-images.githubusercontent.com/83589796/207018428-bcc2a43e-3d53-4552-b05d-c8d1594224ed.png" alt="NWT-Bild4" width="20%"/>
-</div>
-<div class="pull-right">
-<img src="https://user-images.githubusercontent.com/83589796/207018714-03ffcee2-36b9-45ad-8f81-f8d58da54c22.png" alt="NWT-Bild5" width="20%"/>
-</div>
-<div class="pull-left">
-<img src="https://user-images.githubusercontent.com/83589796/205028700-45eb020f-d0ba-4afb-9c3a-c883ac3f5381.png" alt="NWT-Bild2" width="20%"/>
-</div>
-<div class="pull-right">
-<img src="https://user-images.githubusercontent.com/83589796/207018024-7bf4d3ee-ffd3-4d62-857f-11c074bbe708.png" alt="NWT-Bild3" width="20%"/>
-</div>
+<font size="3">Planen und betreiben von Netzwerken</font>
+<dt> <dt> Bereich Switching und Routing:</dt>
+    <dd>Einführende Übungen zu Switching und einfachem Routing (einfache Fehlererkennung).</dd>
+</dl>:</dt>
+    <dd>Einführende Übungen zu Switching und einfachem Routing (einfache Fehlererkennung).</dd>
+</dl>
+
+
 
 
 ---
@@ -101,25 +101,25 @@ Die Schülerinnen und Schüler lernen im
 
 ----
 
-<font size="3">Softwareentwicklung Bildungs- und Lehraufgabe:</font>
-<dt> Die Schülerinnen und Schüler können</dt>
+### Softwareentwicklung Bildungs- und Lehraufgabe:
+
+<font size="3">Die Schülerinnen und Schüler können</font>
 <dl style="font-size: 14px">
-	
 <dt> im Bereich Strukturierte Programmierung </dt>
 <dd> - Programme mit Hilfe von Methoden oder Funktionen strukturiere und in einer höheren Programmiersprache umsetzen </dd>
 <dd> - elementare Datentypen und Kontrollstrukturen erläutern sowie geeignete Datentypen für ihre Programme auswählen </dd>
 <dd> - einfache API-Dokumentationen auf Methodenebene lesen und verstehen </dd>
 <dd> - einfache Programmbibliotheken für gängige Aufgaben verwenden </dd>
-
-<dt> im Bereich Algorithmen und Datenstrukturen </dt>
-<dd> - einfache Datenstrukturen einsetzen </dd>
-<dd> - einfache Datenstrukturen sortieren und darin ein Element suchen. </dd>
-
-<dt> im Bereich Softwareentwicklungsprozess </dt>
-<dd> - mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen </dd>
-<dd> - im Rahmen der Programmentwicklung Fehler finden und beheben </dd>
-<dd> - einfache Testfälle definieren und damit Programme systematisch testen </dd>
 </dl>
+
+Die Schülerinnen und Schüler können im Bereich Algorithmen und Datenstrukturen
+<dd> - einfache Datenstrukturen einsetzen
+<dd> - einfache Datenstrukturen sortieren und darin ein Element suchen.
+
+Die Schülerinnen und Schüler können im Bereich Softwareentwicklungsprozess
+<dd> - mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen
+<dd> - im Rahmen der Programmentwicklung Fehler finden und beheben
+<dd> - einfache Testfälle definieren und damit Programme systematisch testen
 
 ---
 
@@ -127,18 +127,16 @@ Die Schülerinnen und Schüler lernen im
 
 ----
 
-<font size="3">Softwareentwicklung - Lehrstoff:</font>
+### Softwareentwicklung - Lehrstoff:
 
-<dl style="font-size: 14px">
-	
-<dt> Bereich Strukturierte Programmierung: </dt>
-<dd> - Anweisungen und Kontrollstrukturen, elementare Datentypen und Operatoren, prozedurale Programmierung, Benennungskonventionen, API-Dokumentation, Einsatz von Bibliotheken </dd>
+Bereich Strukturierte Programmierung:
+- Anweisungen und Kontrollstrukturen, elementare Datentypen und Operatoren, prozedurale Programmierung, Benennungskonventionen, API-Dokumentation, Einsatz von Bibliotheken
 
-<dt> Bereich Algorithmen und Datenstrukturen: </dt> 
-<dd> - Einfache Datenstrukturen, Such- und Sortieralgorithmen </dd>
+Bereich Algorithmen und Datenstrukturen:
+- Einfache Datenstrukturen, Such- und Sortieralgorithmen
 
-<dt> Bereich Softwareentwicklungsprozess: </dt>
-<dd> - Entwicklungsumgebungen, Testen und Fehlersuche, Debugging </dd> 
+Bereich Softwareentwicklungsprozess:
+- Entwicklungsumgebungen, Testen und Fehlersuche, Debugging
 
 ### Empfehlungen des Abteilungsvorstandes:
 
