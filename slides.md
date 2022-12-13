@@ -53,6 +53,8 @@ Die Schülerinnen und Schüler können im...
 <font size="3">Grundlagen: Netzwerkarten</font>
 <div class="pull-left">
 <img src="https://user-images.githubusercontent.com/83589796/207018428-bcc2a43e-3d53-4552-b05d-c8d1594224ed.png" alt="NWT-Bild4" width="20%"/>
+</div>
+<div class="pull-right">
 <img src="https://user-images.githubusercontent.com/83589796/207018714-03ffcee2-36b9-45ad-8f81-f8d58da54c22.png" alt="NWT-Bild5" width="20%"/>
 </div>
 <div class="pull-left">
