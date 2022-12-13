@@ -103,11 +103,12 @@ Die Schülerinnen und Schüler lernen im
 
 <font size="3">Die Schülerinnen und Schüler können im Bereich Strukturierte Programmierung</font>
 <dl style="font-size: 14px">
-- Programme mit Hilfe von Methoden oder Funktionen strukturiere und in einer höheren Programmiersprache umsetzen
-- elementare Datentypen und Kontrollstrukturen erläutern sowie geeignete Datentypen für ihre Programme auswählen
-- einfache API-Dokumentationen auf Methodenebene lesen und verstehen
-- einfache Programmbibliotheken für gängige Aufgaben verwenden
-<dl>
+<dd> - Programme mit Hilfe von Methoden oder Funktionen strukturiere und in einer höheren Programmiersprache umsetzen </dd>
+<dd> - elementare Datentypen und Kontrollstrukturen erläutern sowie geeignete Datentypen für ihre Programme auswählen </dd>
+<dd> - einfache API-Dokumentationen auf Methodenebene lesen und verstehen </dd>
+	<dd> - einfache Programmbibliotheken für gängige Aufgaben verwenden </dd>
+</dl>
+
 Die Schülerinnen und Schüler können im Bereich Algorithmen und Datenstrukturen
 - einfache Datenstrukturen einsetzen
 - einfache Datenstrukturen sortieren und darin ein Element suchen.
