@@ -101,8 +101,7 @@ Die Schülerinnen und Schüler lernen im
 
 ----
 
-### Softwareentwicklung Bildungs- und Lehraufgabe:
-
+<font size="3">Softwareentwicklung Bildungs- und Lehraufgabe:</font>
 <dt> Die Schülerinnen und Schüler können</dt>
 <dl style="font-size: 14px">
 <dt> im Bereich Strukturierte Programmierung </dt>
