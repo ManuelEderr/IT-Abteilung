@@ -96,7 +96,7 @@ Die Schülerinnen und Schüler lernen im
 
 ### Softwareentwicklung Bildungs- und Lehraufgabe:
 
-Die Schülerinnen und Schüler können im Bereich Strukturierte Programmierung
+<font size="3">Die Schülerinnen und Schüler können im Bereich Strukturierte Programmierung</font>
 <dl style="font-size: 14px">
 - Programme mit Hilfe von Methoden oder Funktionen strukturiere und in einer höheren Programmiersprache umsetzen
 - elementare Datentypen und Kontrollstrukturen erläutern sowie geeignete Datentypen für ihre Programme auswählen
