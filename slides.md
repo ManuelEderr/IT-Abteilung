@@ -23,7 +23,7 @@
 <font size="3">NETZWERKTECHNIK Bildungs- und Lehraufgabe</font>
 
 
-Die Schülerinnen und Schüler können im... 
+<dt> Die Schülerinnen und Schüler können im... </dt> 
 <dl style="font-size: 14px">
 <dt> Bereich Übertragungsmedien und Netztopologien:</dt>
 	<dd>Computernetze nach Umfang, Dienstangebot, Topologie und Mediennutzung charakterisieren</dd>
@@ -103,7 +103,7 @@ Die Schülerinnen und Schüler lernen im
 
 ### Softwareentwicklung Bildungs- und Lehraufgabe:
 
-<font size="3">Die Schülerinnen und Schüler können</font>
+<dt> Die Schülerinnen und Schüler können</dt>
 <dl style="font-size: 14px">
 <dt> im Bereich Strukturierte Programmierung </dt>
 <dd> - Programme mit Hilfe von Methoden oder Funktionen strukturiere und in einer höheren Programmiersprache umsetzen </dd>
@@ -112,14 +112,14 @@ Die Schülerinnen und Schüler lernen im
 <dd> - einfache Programmbibliotheken für gängige Aufgaben verwenden </dd>
 </dl>
 
-Die Schülerinnen und Schüler können im Bereich Algorithmen und Datenstrukturen
-<dd> - einfache Datenstrukturen einsetzen
-<dd> - einfache Datenstrukturen sortieren und darin ein Element suchen.
+<dt> im Bereich Algorithmen und Datenstrukturen </dt>
+<dd> - einfache Datenstrukturen einsetzen </dd>
+<dd> - einfache Datenstrukturen sortieren und darin ein Element suchen. </dd>
 
-Die Schülerinnen und Schüler können im Bereich Softwareentwicklungsprozess
-<dd> - mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen
-<dd> - im Rahmen der Programmentwicklung Fehler finden und beheben
-<dd> - einfache Testfälle definieren und damit Programme systematisch testen
+<dt> im Bereich Softwareentwicklungsprozess </dt>
+<dd> - mit gängigen Werkzeugen zur Unterstützung der Softwareentwicklung umgehen </dd>
+<dd> - im Rahmen der Programmentwicklung Fehler finden und beheben </dd>
+<dd> - einfache Testfälle definieren und damit Programme systematisch testen </dd>
 
 ---
 
