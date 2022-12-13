@@ -21,7 +21,7 @@
 ----
 
 <font size="6">Die Schülerinnen und Schüler können Netzwerke planen und betreiben:</font>
-<dl style="font-size: 28px">
+<dl>
 	<dd>IT-Netzwerke sind heute in allen Unternehmen, aber auch in nahezu allen Haushalten vorhanden. Bereits die Verbindung zwischen zwei Computern, 		oder eines Computers mit dem Internet stellen ein Netzwerk dar. Weil wir Computernetzwerke als selbstverständlich erleben, vernachlässigen 			wir zu oft deren Planung. Was passiert jedoch, wenn das Netzwerk seinen Dienst versagt? Was wenn der Server, das Internet oder auch 			nur eine Außenstelle nicht erreichbar ist? Bestellungen kommen nicht an, Rechnungen können nicht bezahlt oder kontrolliert werden, 			Mitarbeiter oder ganze Filialen können nicht weiterarbeiten. Der Schaden kann enorme Ausmaße annehmen. 
 			Deshalb ist es notwendig und wichtig ein Netzwerk sorgfältig zu planen.
 	</dd>
@@ -39,7 +39,7 @@
 <font size="6">NETZWERKTECHNIK Bildungs- und Lehraufgabe</font>
 
 Die Schülerinnen und Schüler können im... 
-<dl style="font-size: 28px">
+<dl>
 <dt> Bereich Übertragungsmedien und Netztopologien:</dt>
 	<dd>Computernetze nach Umfang, Dienstangebot, Topologie und Mediennutzung charakterisieren</dd>
 	<dd>Computernetze vergleichen</dd>
@@ -55,7 +55,7 @@ Die Schülerinnen und Schüler können im...
 
 <font size="3">NETZWERKTECHNIK - Lehrstoff</font>
 
-<dl style="font-size: 14px">
+<dl>
 <dt> Bereich Übertragungsmedien und Netztopologien:</dt>
     <dd>Netze zur Sprach-, Text- und Bildkommunikation; Fest- und Funknetze; Übertragungsmedien und Kopplungselemente; Standards und Zugriffsverfahren; Topologien und Komponenten.</dd>
 <dt> Bereich Schichtenmodelle und Protokolle:</dt>
@@ -65,8 +65,8 @@ Die Schülerinnen und Schüler können im...
 </dl>
 
 ---
-<font size="3">Planen und betreiben von Netzwerken</font>
-<dt> <dt> Bereich Switching und Routing:</dt>
+<font size="3">Bereich Switching und Routing</font>
+<dt> 
     <dd>Einführende Übungen zu Switching und einfachem Routing (einfache Fehlererkennung).</dd>
 </dl>:</dt>
     <dd>Einführende Übungen zu Switching und einfachem Routing (einfache Fehlererkennung).</dd>
