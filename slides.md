@@ -145,7 +145,6 @@ Die Schülerinnen und Schüler lernen im
 
 <dt> Bereich Softwareentwicklungsprozess: </dt>
 <dd> - Entwicklungsumgebungen, Testen und Fehlersuche, Debugging </dd>
-</dl>
 
 #### Empfehlungen des Abteilungsvorstandes:
 <dd> - Im Unterricht möglichst aktiv mitlernen und mitarbeiten </dd>
@@ -156,7 +155,8 @@ Die Schülerinnen und Schüler lernen im
 <dd> - elektronische Geräte mit Bedacht einsetzen (Smartphone, -watch, etc..) </dd>
 <dd> - Supplierung in Webuntis einsehen </dd>
 <dd> - Entschuldigungen rechtzeitig bringen (unentschuldigte Fehlstunden) </dd>
-
+</dl>
+	
 ---
 
 ## ITSI
