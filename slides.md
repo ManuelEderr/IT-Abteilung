@@ -145,7 +145,7 @@ Die Schülerinnen und Schüler lernen im
 <dt> Bereich Softwareentwicklungsprozess: </dt>
 <dd> - Entwicklungsumgebungen, Testen und Fehlersuche, Debugging </dd>
 
-#### Empfehlungen des Abteilungsvorstandes:
+<dt> Empfehlungen des Abteilungsvorstandes: </dt>
 <dd> - Im Unterricht möglichst aktiv mitlernen und mitarbeiten </dd>
 <dd> - Rechtzeitig vor Schularbeiten und Tests zu lernen beginnen (eigener Terminplan elektronisch oder auf Papier) </dd>
 <dd> - Wenn möglich auch die Zeit in der Schule zum gemeinsamen lernen nutzen (Mittagspause, Di. 5. Einheit, nach dem Unterricht) </dd>
