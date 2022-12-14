@@ -134,9 +134,8 @@ Die Schülerinnen und Schüler lernen im
 
 ----
 
-#### Softwareentwicklung - Lehrstoff:
-
 <dl style="font-size: 14px">
+#### Softwareentwicklung - Lehrstoff:
 <dt> Bereich Strukturierte Programmierung: </dt>
 <dd> - Anweisungen und Kontrollstrukturen, elementare Datentypen und Operatoren, prozedurale Programmierung, Benennungskonventionen, API-Dokumentation, Einsatz von Bibliotheken </dd>
 
