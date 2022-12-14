@@ -108,7 +108,7 @@ Die Schülerinnen und Schüler lernen im
 
 ----
 
-### Softwareentwicklung Bildungs- und Lehraufgabe:
+#### Softwareentwicklung Bildungs- und Lehraufgabe:
 
 <font size="3">Die Schülerinnen und Schüler können</font>
 <dl style="font-size: 14px">
@@ -134,7 +134,7 @@ Die Schülerinnen und Schüler lernen im
 
 ----
 
-### Softwareentwicklung - Lehrstoff:
+#### Softwareentwicklung - Lehrstoff:
 
 <dl style="font-size: 14px">
 <dt> Bereich Strukturierte Programmierung: </dt>
@@ -147,7 +147,7 @@ Die Schülerinnen und Schüler lernen im
 <dd> - Entwicklungsumgebungen, Testen und Fehlersuche, Debugging </dd>
 </dl>
 
-### Empfehlungen des Abteilungsvorstandes:
+#### Empfehlungen des Abteilungsvorstandes:
 <dd> - Im Unterricht möglichst aktiv mitlernen und mitarbeiten </dd>
 <dd> - Rechtzeitig vor Schularbeiten und Tests zu lernen beginnen (eigener Terminplan elektronisch oder auf Papier) </dd>
 <dd> - Wenn möglich auch die Zeit in der Schule zum gemeinsamen lernen nutzen (Mittagspause, Di. 5. Einheit, nach dem Unterricht) </dd>
