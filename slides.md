@@ -136,14 +136,16 @@ Die Schülerinnen und Schüler lernen im
 
 ### Softwareentwicklung - Lehrstoff:
 
-Bereich Strukturierte Programmierung:
-- Anweisungen und Kontrollstrukturen, elementare Datentypen und Operatoren, prozedurale Programmierung, Benennungskonventionen, API-Dokumentation, Einsatz von Bibliotheken
+<dl style="font-size: 14px">
+<dt> Bereich Strukturierte Programmierung: </dt>
+<dd> - Anweisungen und Kontrollstrukturen, elementare Datentypen und Operatoren, prozedurale Programmierung, Benennungskonventionen, API-Dokumentation, Einsatz von Bibliotheken </dd>
 
-Bereich Algorithmen und Datenstrukturen:
-- Einfache Datenstrukturen, Such- und Sortieralgorithmen
+<dt> Bereich Algorithmen und Datenstrukturen: </dt>
+<dd> - Einfache Datenstrukturen, Such- und Sortieralgorithmen </dd>
 
-Bereich Softwareentwicklungsprozess:
-- Entwicklungsumgebungen, Testen und Fehlersuche, Debugging
+<dt> Bereich Softwareentwicklungsprozess: </dt>
+<dd> - Entwicklungsumgebungen, Testen und Fehlersuche, Debugging </dd>
+</dl>
 
 ### Empfehlungen des Abteilungsvorstandes:
 
