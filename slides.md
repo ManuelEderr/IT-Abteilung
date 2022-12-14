@@ -148,15 +148,14 @@ Die Schülerinnen und Schüler lernen im
 </dl>
 
 ### Empfehlungen des Abteilungsvorstandes:
-
-- Im Unterricht möglichst aktiv mitlernen und mitarbeiten
-- Rechtzeitig vor Schularbeiten und Tests zu lernen beginnen (eigener Terminplan elektronisch oder auf Papier)
-- Wenn möglich auch die Zeit in der Schule zum gemeinsamen lernen nutzen (Mittagspause, Di. 5. Einheit, nach dem Unterricht)
-- Wenn fachliche Fragen offen bleiben: unterrichtenden Lehrer direkt oder per E-Mail kontaktieren
-- Bei offenen allgemeinen Fragen zuerst den Kontakt mit dem Jahrgangsvorstand suchen
-- elektronische Geräte mit Bedacht einsetzen (Smartphone, -watch, etc..)
-- Supplierung in Webuntis einsehen
-- Entschuldigungen rechtzeitig bringen (unentschuldigte Fehlstunden)
+<dd> - Im Unterricht möglichst aktiv mitlernen und mitarbeiten </dd>
+<dd> - Rechtzeitig vor Schularbeiten und Tests zu lernen beginnen (eigener Terminplan elektronisch oder auf Papier) </dd>
+<dd> - Wenn möglich auch die Zeit in der Schule zum gemeinsamen lernen nutzen (Mittagspause, Di. 5. Einheit, nach dem Unterricht) </dd>
+<dd> - Wenn fachliche Fragen offen bleiben: unterrichtenden Lehrer direkt oder per E-Mail kontaktieren </dd>
+<dd> - Bei offenen allgemeinen Fragen zuerst den Kontakt mit dem Jahrgangsvorstand suchen </dd>
+<dd> - elektronische Geräte mit Bedacht einsetzen (Smartphone, -watch, etc..) </dd>
+<dd> - Supplierung in Webuntis einsehen </dd>
+<dd> - Entschuldigungen rechtzeitig bringen (unentschuldigte Fehlstunden) </dd>
 
 ---
 
